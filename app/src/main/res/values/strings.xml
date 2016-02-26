@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploLeday</string>
+    <string name="action_settings">Settings</string>
+    <string name="adivina">Adivina la Palabra</string>
+    <string name="adivina_button">Adivina</string>
+    <string name="btn_limpiar">Limpiar</string>
+</resources>
